@@ -8,4 +8,4 @@ for i in range(0,n):
     result = result + score_list[i]
 
 result = result/n
-print(result)
+print(result) #평균
