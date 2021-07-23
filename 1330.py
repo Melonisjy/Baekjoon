@@ -7,4 +7,4 @@ if a>b :
 elif a<b :
     print('<')
 else :
-    print('==')
+    print('==') #두 수 비교하기
