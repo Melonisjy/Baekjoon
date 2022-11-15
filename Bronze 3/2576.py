@@ -7,7 +7,7 @@ for i in range(7):
     lst.append(int(input()))
 
 for i in range(len(lst)):
-    if lst[i] % 2 == 0: # 홀수이면
+    if lst[i] % 2 == 0: # 짝수이면
         even.append(lst[i])
         cnt += 1
     else:
